@@ -2,3 +2,5 @@
 Unity assignment
 
 Short discrptions 
+
+This is activity 6 Unity tutorial assignment. Following the jump tutorial and did some map editing.
